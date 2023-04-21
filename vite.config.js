@@ -12,6 +12,6 @@ export default defineConfig({
     }
   },
   server: {
-    host: '127.0.0.1'
+    host: 'ec2-54-89-162-225.compute-1.amazonaws.com'
   }
 })
